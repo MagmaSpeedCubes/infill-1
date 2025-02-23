@@ -239,3 +239,11 @@ t33ny:
   description: "A teeny-tiny 3D printer"
   repository: "https://raw.githubusercontent.com/rockwillck/t33ny/refs/heads/main/JOURNAL.md"
   file_name: t33ny.md
+
+ML128E:
+  title: "A 4-color belt 3d printer"
+  description: "A tiny 128mm^3 3d printer with 4 nozzles for tiny no purge multicolor prints"
+  repository: "https://raw.githubusercontent.com/MagmaSpeedCubes/infill/refs/heads/main/JOURNAL.md"
+  file_name: ML128E.md
+
+
